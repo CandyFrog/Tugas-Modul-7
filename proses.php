@@ -32,6 +32,6 @@
         }
     ?>
 
-    <a href="form.html">← Kembali ke Formulir</a>
+    <a href="form.html">Kembali ke Formulir</a>
 </body>
 </html>
